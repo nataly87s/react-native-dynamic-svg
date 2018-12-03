@@ -2,11 +2,25 @@
     "name": "react-native-dynamic-svg",
     "version": "0.1.0",
     "description": "Render an SVG Image from a dynamic source",
+    "main": "dist/index.js",
     "author": "Nataly Shrits <nataly87s@gmail.com>",
     "license": "MIT",
+    "peerDependencies": {
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-native": "^0.57.7",
+        "react-native-svg": "^8.0.8"
+    },
     "devDependencies": {
+        "@types/react": "^16.7.11",
+        "@types/react-native": "^0.57.15",
         "husky": "^1.2.0",
         "lint-staged": "^8.1.0",
-        "prettier": "^1.15.3"
+        "prettier": "^1.15.3",
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-native": "^0.57.7",
+        "react-native-svg": "^8.0.8",
+        "typescript": "^3.2.1"
     }
 }
