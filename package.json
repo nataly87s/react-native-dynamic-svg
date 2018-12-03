@@ -1,0 +1,12 @@
+{
+    "name": "react-native-dynamic-svg",
+    "version": "0.1.0",
+    "description": "Render an SVG Image from a dynamic source",
+    "author": "Nataly Shrits <nataly87s@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "husky": "^1.2.0",
+        "lint-staged": "^8.1.0",
+        "prettier": "^1.15.3"
+    }
+}
